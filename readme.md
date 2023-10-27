@@ -1,5 +1,3 @@
-Claro, aquí tienes el mismo contenido en formato Markdown:
-
 ```markdown
 # Simple GraphQL Server Example
 
