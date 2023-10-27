@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "compile" : "tsc",
+    "compile": "tsc",
     "start": "npm run compile && node ./dist/index.js"
   },
   "keywords": [],
@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.8.9",
+    "graphql-docs": "^0.2.0",
     "typescript": "^5.2.2"
   }
 }
