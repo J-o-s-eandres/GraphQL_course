@@ -10,7 +10,7 @@ To get started with this GraphQL server, you can follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/J-o-s-eandres/GraphQL_course)>
    ```
 
 2. Install the required dependencies:
